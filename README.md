@@ -29,6 +29,6 @@ The To-Do List App offers the following features:
 
 ## How to Use
 
-1. **Clone the Repository**:
+**Clone the Repository**:
    ```bash
    git clone https://github.com/Krithika-N-4/To-Do-List.git
